@@ -21,7 +21,7 @@ Este projeto foi criado para estudo e demonstra como estruturar uma
 ## 📂 Estrutura do projeto
 
     src/main/java/com/engagetech/user_service
-     ├── business         # Service
+     ├── service         # Service
      ├── controller       # API REST Controllers
      ├── infrastructure
      │    ├── model     # Entidades JPA
