@@ -5,7 +5,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import com.engagetech.user_service.business.UsuarioService;
 import com.engagetech.user_service.business.UsuarioService.TipoBusca;
-import com.engagetech.user_service.infrastructure.entitys.Usuario;
+import com.engagetech.user_service.infrastructure.entities.Usuario;
+
 import lombok.RequiredArgsConstructor;
 import java.util.Map;
 

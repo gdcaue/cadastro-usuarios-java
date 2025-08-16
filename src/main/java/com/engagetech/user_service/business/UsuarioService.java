@@ -2,8 +2,9 @@ package com.engagetech.user_service.business;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
+
+import com.engagetech.user_service.infrastructure.entities.Usuario;
 import com.engagetech.user_service.infrastructure.repository.UsuarioRepository;
-import com.engagetech.user_service.infrastructure.entitys.Usuario;
 
 /**
  * Serviço responsável pela lógica de negócios relacionada à entidade {@link Usuario}.

@@ -24,7 +24,7 @@ Este projeto foi criado para estudo e demonstra como estruturar uma
      ├── business         # Service
      ├── controller       # API REST Controllers
      ├── infrastructure
-     │    ├── entitys     # Entidades JPA
+     │    ├── entities     # Entidades JPA
      │    └── repository  # Repositórios JPA
 
 ------------------------------------------------------------------------

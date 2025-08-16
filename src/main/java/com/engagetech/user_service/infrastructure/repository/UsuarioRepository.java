@@ -1,7 +1,9 @@
 package com.engagetech.user_service.infrastructure.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.engagetech.user_service.infrastructure.entitys.Usuario;
+
+import com.engagetech.user_service.infrastructure.entities.Usuario;
+
 import jakarta.transaction.Transactional;
 import java.util.Optional;
 

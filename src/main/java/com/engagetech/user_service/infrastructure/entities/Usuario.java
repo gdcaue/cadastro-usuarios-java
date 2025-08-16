@@ -1,4 +1,4 @@
-package com.engagetech.user_service.infrastructure.entitys;
+package com.engagetech.user_service.infrastructure.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
