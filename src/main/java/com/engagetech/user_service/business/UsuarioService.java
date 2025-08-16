@@ -1,4 +1,4 @@
-package com.engagetech.user_service.service;
+package com.engagetech.user_service.business;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

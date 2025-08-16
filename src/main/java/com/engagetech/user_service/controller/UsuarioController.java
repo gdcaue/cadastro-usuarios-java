@@ -3,9 +3,10 @@ package com.engagetech.user_service.controller;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.engagetech.user_service.business.UsuarioService;
-import com.engagetech.user_service.business.UsuarioService.TipoBusca;
+
 import com.engagetech.user_service.infrastructure.model.Usuario;
+import com.engagetech.user_service.service.UsuarioService;
+import com.engagetech.user_service.service.UsuarioService.TipoBusca;
 
 import lombok.RequiredArgsConstructor;
 import java.util.Map;
