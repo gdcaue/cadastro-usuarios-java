@@ -112,7 +112,7 @@ recomenda-se ocultar).
 1.  Clone o repositório:
 
     ``` bash
-    git clone https://github.com/gdcaue/java-user-service.git
+    git clone https://github.com/gdcaue/cadastro-usuarios-java.git
     cd user-service
     ```
 
