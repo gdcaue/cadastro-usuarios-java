@@ -3,7 +3,7 @@ package com.engagetech.user_service.business;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.engagetech.user_service.infrastructure.entities.Usuario;
+import com.engagetech.user_service.infrastructure.model.Usuario;
 import com.engagetech.user_service.infrastructure.repository.UsuarioRepository;
 
 /**
